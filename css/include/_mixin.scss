@@ -1,0 +1,14 @@
+@mixin colorTitle (){
+    color: gray;
+        font-size: 1.7vw;
+        font-weight: bold;
+        text-align: center;
+}
+
+@mixin sizeP {
+    font-size: 0.9vw;
+}
+
+@mixin sizeH {
+    font-size: 2vw;
+}
